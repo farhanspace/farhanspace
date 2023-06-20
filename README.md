@@ -22,7 +22,7 @@
   ⚡ Currently solving problem in Leetcode <br>   
   ✨ Planning to learn Javascript 
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanspace&show_icons=true&count_private=true&theme=dark&locale=en" alt="farhanspace" width="350" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanspace&show_icons=true&count_private=true&theme=dark&locale=en" alt="farhanspace" width="390" />
 
 </p>
 
