@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Farhan</h1>
-<h3 align="center">Interested in android app development and ML</h3>
+<h3 align="center">Interested in Android and ML</h3>
 <br>
 
 <p align='center'>
@@ -30,8 +30,6 @@
 <h3 align='center'>🔨 Languages and Tools:</h3>
 
 <p align="center">
-  <a href="#">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   </a>&nbsp;&nbsp;
 <a href="https//:flutter.com">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
