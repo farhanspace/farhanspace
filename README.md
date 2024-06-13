@@ -14,7 +14,6 @@
 </div>
 
 <p align="center">
-
 <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanspace&show_icons=true&count_private=true&theme=gruvbox&locale=en" alt="farhanspace" width="390" />
 </p>
