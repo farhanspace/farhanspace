@@ -6,7 +6,7 @@ I'm beginner in programming. Mainly focusing in Java & Android. There is lot to 
 
 ---
 <p>
-⚡  Working on my wesite<br>
+⚡  Working on my website<br>
 ✨ Learning Javascript<br>
 🪴 Next Kotlin
 </p>
